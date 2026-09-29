@@ -1,0 +1,26 @@
+# stripCHORDer news feed
+#
+# This file is the whole thing. Upload it to GitHub Pages as news.txt and edit it
+# whenever you want to say something. No app update, no store review, no reinstall.
+#
+# RULES, ALL OF THEM:
+#   - one message per line
+#   - a line starting with # is ignored (use it for notes to yourself)
+#   - a blank line is ignored
+#   - only the FIRST 3 usable lines are shown, so put the important one at the top
+#   - keep lines short: they scroll around a curve. Headline, not paragraph.
+#     Anything past 120 characters gets cut off with a "..."
+#
+# OPTIONAL DATES. Put a date and a | in front of a line:
+#   2026-12-01 | HOLIDAY SALE          shows from Dec 1st onward
+#   2026-12-01..2026-12-26 | SALE      shows only between those two dates
+# Dates mean it stops on its own and you don't have to remember to delete it.
+#
+# If you get a date wrong the line shows up with the date still on the front.
+# That is deliberate - it's how you find out, rather than the message just
+# never appearing.
+
+NEW SINGLE OUT NOW - RAD/Savennia 
+# Examples, switched off by being commented out. Delete the # to use one.
+# v1.9 IS OUT - PER-STRING FRET NUMBERS ON EVERY CHORD
+# 2026-12-01..2026-12-26 | HAPPY HOLIDAYS FROM STRIPCHORDER
