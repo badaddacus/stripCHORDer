@@ -1,8 +1,5 @@
 # stripCHORDer news feed
 #
-# This file is the whole thing. Upload it to GitHub Pages as news.txt and edit it
-# whenever you want to say something. No app update, no store review, no reinstall.
-#
 # RULES, ALL OF THEM:
 #   - one message per line
 #   - a line starting with # is ignored (use it for notes to yourself)
@@ -20,7 +17,6 @@
 # That is deliberate - it's how you find out, rather than the message just
 # never appearing.
 
-NEW SINGLE OUT NOW - RAD/Savennia 
+stripCHORDer:Live! runs on donations. As of now the project has received $0 from users.
+At least share the extension with fellow musicians, geez
 # Examples, switched off by being commented out. Delete the # to use one.
-# v1.9 IS OUT - PER-STRING FRET NUMBERS ON EVERY CHORD
-# 2026-12-01..2026-12-26 | HAPPY HOLIDAYS FROM STRIPCHORDER
