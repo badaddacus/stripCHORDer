@@ -16,7 +16,7 @@
 # If you get a date wrong the line shows up with the date still on the front.
 # That is deliberate - it's how you find out, rather than the message just
 # never appearing.
-
-stripCHORDer:Live! runs on donations. As of now the project has received $0 from users.
-At least share the extension with fellow musicians, geez
+Patent Pending 2026 ~
+Please report problems/proposals/praises to stripchorder@gmail.com ~
+Tip #1: When in Simplify mode consider the rotating letters as individual notes not chords.
 # Examples, switched off by being commented out. Delete the # to use one.
