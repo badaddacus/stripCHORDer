@@ -17,6 +17,6 @@
 # That is deliberate - it's how you find out, rather than the message just
 # never appearing.
 Patent Pending 2026 ~
-Please report problems/proposals/praises to stripchorder@gmail.com ~
-Tip #1: When in Simplify mode consider the rotating letters as individual notes not chords.
+Problems/proposals/praises? stripchorder@gmail.com ~
+Updates on the way for improved midi scoring and rewind functions.
 # Examples, switched off by being commented out. Delete the # to use one.
