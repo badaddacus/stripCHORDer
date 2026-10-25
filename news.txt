@@ -16,7 +16,7 @@
 # If you get a date wrong the line shows up with the date still on the front.
 # That is deliberate - it's how you find out, rather than the message just
 # never appearing.
-Patent Pending 2026 ~
-Problems/proposals/praises? stripchorder@gmail.com ~
-Updates on the way for improved midi scoring and rewind functions.
+Patent Pending 2026
+Anyone out there? stripchorder@gmail.com ~
+Update 1.9 color mode gives each note a color, and a lock switch for center gauge,
 # Examples, switched off by being commented out. Delete the # to use one.
